@@ -1,5 +1,7 @@
 .image{
     border-radius: 50%;
+    width: 200px;
+    height: 200px;
 }
 .left-section{
     background-color: rgb(243, 241, 241);
